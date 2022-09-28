@@ -5,10 +5,10 @@ body {
 
 hr {
 border-style: none;
-border-top-style: dotted;
+border-top-style: double;
 border-color: #967E76;
-border-width: 14px;
-width: 10%;
+border-width: 5px;
+width: 95%;
 }
 
 h3 {
